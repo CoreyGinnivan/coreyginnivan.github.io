@@ -1,0 +1,1 @@
+$(document).ready(function(){setTimeout(function(){$(".items").addClass("loaded")},500)});
